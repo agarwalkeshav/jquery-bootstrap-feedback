@@ -4,6 +4,10 @@ Simple popup for users to submit site feedback. In the initial release we're usi
 # Demo
 http://bootsnipp.com/snippets/KrEz3
 
+
+
+
+
 # Article
 https://asked.io/jquery-bootstrap-html2canvas-bug-feedback-reporter
 
