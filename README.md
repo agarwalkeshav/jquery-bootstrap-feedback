@@ -11,4 +11,4 @@ https://asked.io/jquery-bootstrap-html2canvas-bug-feedback-reporter
 If you do post an issue with your URL and we'll give you a shout out, 40k+ views makes me think someone is using it :D
 
 # Looking for similar things?
-Let me know!
+Let me know !
